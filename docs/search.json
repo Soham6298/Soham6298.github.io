@@ -4,6 +4,76 @@
     "href": "index.html",
     "title": "Soham Mukherjee",
     "section": "",
-    "text": "I am a Research Assistant at the TU Dortmund and a final year Doctoral Researcher at the University of Tübingen as an IMPRS-IS scholar. I am supervised by Paul Bürkner and Manfred Claassen.\nIn my PhD, I have been working on Latent variable estimation using derivative Gaussian processes (GPs) and generalizing Hilbert space approximation methods for applications in single-cell biology. My research interests are largely in developing statistical methods and Bayesian inference. My current interests lie in latent temporal models, spatial statistics and prior specifications for covariance functions. Recently, Bayesian change-point point analysis of latent temporal processes has peaked my interest. Over the years, I have grown a special interest in statistical applications to Single-cell biology, especially in modelling biological processes. Being a shared PhD between a computational statistics lab and a ML in single-cell biology lab, my skills and interest towards as an interdisciplinary researcher has grown quite a bit. I am currently on the lookout for postdoctoral opportunities that align with the above areas of research. I would be happy to connect and discuss about potential positions and collaboration.\nFeel free to get in touch for potential collaboration and/or for more information about my ongoing works."
+    "text": "I am a Research Assistant at the TU Dortmund and a final year Doctoral Researcher at the University of Tübingen as an IMPRS-IS scholar. I am supervised by Paul Bürkner and Manfred Claassen.\nIn my PhD, I have been working on Latent variable estimation using derivative Gaussian processes (GPs) and generalizing Hilbert space approximation methods for applications in single-cell biology. My research interests are largely in developing statistical methods and Bayesian inference. My current interests, among others, lie in latent temporal models and I have been looking for an opportunity to extend my models into the spatial statistics domain. One area of research that rose directly from my ongoing works lie in prior specifications for covariance functions. Recently, Bayesian change-point point analysis using GPs for latent temporal modelling has also peaked my interest. Over the years, I have grown a special interest in statistical applications to Single-cell biology, especially in modelling biological processes. Being a shared PhD between a computational statistics lab and a ML in single-cell biology lab, I have also cultivated my skills and interest on the interdisciplinary side of research. I am currently on the lookout for postdoctoral opportunities that align with the above areas of research. I would be happy to connect and discuss about potential positions and collaboration.\nFeel free to get in touch for potential collaboration and/or for more information about my ongoing works."
+  },
+  {
+    "objectID": "events/index.html",
+    "href": "events/index.html",
+    "title": "Scientific events",
+    "section": "",
+    "text": "RSS International Conference 2025, September, 2025, Edinburgh, UK. Contributed talk: DGP-LVM: Derivative Gaussian process latent variable models"
+  },
+  {
+    "objectID": "events/index.html#upcoming-events",
+    "href": "events/index.html#upcoming-events",
+    "title": "Scientific events",
+    "section": "",
+    "text": "RSS International Conference 2025, September, 2025, Edinburgh, UK. Contributed talk: DGP-LVM: Derivative Gaussian process latent variable models"
+  },
+  {
+    "objectID": "events/index.html#past-events",
+    "href": "events/index.html#past-events",
+    "title": "Scientific events",
+    "section": "Past events",
+    "text": "Past events\n\n2024 IMS International Conference on Statistics and Data Science (ICSDS), December, 2024, Nice, France. Contributed talk: DGP-LVM: Derivative Gaussian process latent variable models\n2024 ISBA World Meeting, July, 2024, Venice, Italy. Participated.\nCambridge Ellis Unit Summer School on Probabilistic Machine Learning 2023, July, 2023, Cambridge, UK. Poster presentation: Derivative Gaussian process latent variable model with applications to Single-cell RNA sequencing data"
+  },
+  {
+    "objectID": "teaching/index.html",
+    "href": "teaching/index.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "2025\n\nSeminar on Model Comparison, Summer semester, TU Dortmund.\n\n\n\n2024\n\nSeminar on Multilevel Models, Winter semester, TU Dortmund.\nIntensive course in statistics, Summer semester, TU Dortmund."
+  },
+  {
+    "objectID": "publications/index.html",
+    "href": "publications/index.html",
+    "title": "Scientific publications",
+    "section": "",
+    "text": "Mukherjee, S., Claassen, M. & Bürkner, PC. DGP-LVM: Derivative Gaussian process latent variable models. Stat Comput 35, 120 (2025). Preprint available for free."
+  },
+  {
+    "objectID": "publications/index.html#accepted",
+    "href": "publications/index.html#accepted",
+    "title": "Scientific publications",
+    "section": "",
+    "text": "Mukherjee, S., Claassen, M. & Bürkner, PC. DGP-LVM: Derivative Gaussian process latent variable models. Stat Comput 35, 120 (2025). Preprint available for free."
+  },
+  {
+    "objectID": "publications/index.html#in-review",
+    "href": "publications/index.html#in-review",
+    "title": "Scientific publications",
+    "section": "In Review",
+    "text": "In Review\n\nMukherjee, S., Claassen, M., & Bürkner, P. C. (2025). Hilbert space methods for approximating multi-output latent variable Gaussian processes. arXiv preprint arXiv:2505.16919."
+  },
+  {
+    "objectID": "publications/index.html#preprint",
+    "href": "publications/index.html#preprint",
+    "title": "Scientific publications",
+    "section": "Preprint",
+    "text": "Preprint\n\nMukherjee S. (2021) [Bayesian Analysis of Stochastic Volatility Model using Finite Gaussian Mixtures with Unknown Number of Components] (https://arxiv.org/abs/2110.12824). arXiv preprint arXiv:2110.12824."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "cv/index.html",
+    "href": "cv/index.html",
+    "title": "Curriculum vitae",
+    "section": "",
+    "text": "Download current CV"
   }
 ]
