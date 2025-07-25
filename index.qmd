@@ -15,7 +15,6 @@ about:
       href: https://scholar.google.com/citations?hl=en
     - text: LinkedIn
       href: https://www.linkedin.com/in/soham-mukherjee-33a397146/
-
 ---
 
-I am a Research assistant at the Faculty of Statistics, TU Dortmund \href{https://statistik.tu-dortmund.de/} and a doctoral researcher at Faculty of Natural Science, University of T\"ubingen \href{https://uni-tuebingen.de/en/faculties/faculty-of-science/faculty/}. I am supervised by Paul B\"urkner \href{https://paulbuerkner.com/} and Manfred Claassen \href{https://claassenlab.github.io/}.
+I am a Research assistant at the Faculty of Statistics, TU Dortmund \href{https://statistik.tu-dortmund.de/} and a doctoral researcher at Faculty of Natural Science, University of T"ubingen \href{https://uni-tuebingen.de/en/faculties/faculty-of-science/faculty/}. I am supervised by Paul B"urkner \href{https://paulbuerkner.com/} and Manfred Claassen \href{https://claassenlab.github.io/}.
