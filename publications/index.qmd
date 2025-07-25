@@ -1,0 +1,21 @@
+---
+title: "Scientific publications"
+format: html
+excerpt: "A list of my scientific works"
+toc-location: right
+page-layout: full
+---
+
+## Accepted
+
+### 2025
+
+- *Mukherjee, S.*, Claassen, M. \& Bürkner, PC. [DGP-LVM: Derivative Gaussian process latent variable models](https://doi.org/10.1007/s11222-025-10644-4). Stat Comput 35, 120 (2025).[Preprint available for free](https://arxiv.org/abs/2404.04074).
+
+## In Review
+
+- *Mukherjee, S.*, Claassen, M., \& Bürkner, P. C. (2025). [Hilbert space methods for approximating multi-output latent variable Gaussian processes](https://arxiv.org/abs/2505.16919). arXiv preprint arXiv:2505.16919.
+
+## Preprint
+
+- Mukherjee S. (2021) [Bayesian Analysis of Stochastic Volatility Model using Finite Gaussian Mixtures with Unknown Number of Components] (https://arxiv.org/abs/2110.12824). arXiv preprint arXiv:2110.12824.

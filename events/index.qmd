@@ -1,0 +1,18 @@
+---
+title: "Scientific events"
+excerpt: "List of scientific talks and participation"
+toc-location: right
+page-layout: full
+---
+
+## Upcoming events
+
+- [RSS International Conference 2025](https://rss.org.uk/training-events/conference-2025/), September, 2025, Edinburgh, UK. Contributed talk: *DGP-LVM: Derivative Gaussian process latent variable models*
+
+## Past events
+
+- [2024 IMS International Conference on Statistics and Data Science (ICSDS)](https://sites.google.com/view/ims-icsds2024/), December, 2024, Nice, France. Contributed talk: *DGP-LVM: Derivative Gaussian process latent variable models*
+
+- [2024 ISBA World Meeting](https://www.unive.it/web/en/2208/home), July, 2024, Venice, Italy. Participated.
+
+- [Cambridge Ellis Unit Summer School on Probabilistic Machine Learning 2023](https://www.ellis.eng.cam.ac.uk/summer-school-23-2/), July, 2023, Cambridge, UK. Poster presentation: *Derivative gaussian process latent variable model with applications to Single-cell RNA sequencing data*
