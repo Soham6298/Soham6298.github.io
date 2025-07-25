@@ -26,7 +26,11 @@ website:
     open-graph: true
 format:
   html:
-    theme: flatly
+    theme: 
+      light: flatly
+      dark: darkly
+    toggle: true
+    page-layout: full
     css: styles.css
     toc: true
 

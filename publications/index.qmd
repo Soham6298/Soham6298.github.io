@@ -10,7 +10,7 @@ page-layout: full
 
 ### 2025
 
-- *Mukherjee, S.*, Claassen, M. \& Bürkner, PC. [DGP-LVM: Derivative Gaussian process latent variable models](https://doi.org/10.1007/s11222-025-10644-4). Stat Comput 35, 120 (2025).[Preprint available for free](https://arxiv.org/abs/2404.04074).
+- *Mukherjee, S.*, Claassen, M. \& Bürkner, PC. [DGP-LVM: Derivative Gaussian process latent variable models](https://doi.org/10.1007/s11222-025-10644-4). Stat Comput 35, 120 (2025). [Preprint available for free](https://arxiv.org/abs/2404.04074).
 
 ## In Review
 
