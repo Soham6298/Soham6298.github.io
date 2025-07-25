@@ -1,0 +1,12 @@
+/* css styles */
+
+/* Widen the main content area */
+main.content {
+  max-width: 1200px;  /* Default is usually around 768px */
+  margin: 0 auto;
+}
+
+/* Optionally increase line length for better reading */
+.article-content {
+  max-width: 100%;
+}
