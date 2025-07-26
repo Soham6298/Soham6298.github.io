@@ -20,7 +20,15 @@ about:
     - text: LinkedIn
       icon: linkedin
       href: https://www.linkedin.com/in/soham-mukherjee-33a397146/
+format: 
+  html:
+    page-layout: full
+aliases:
+  - /about
 ---
+
+:::{#about-heading}
+
 I am a Research Assistant at the [TU Dortmund](https://www.tu-dortmund.de/) and a final year Doctoral Researcher at the [University of Tübingen](https://uni-tuebingen.de/en/) as an [IMPRS-IS](https://imprs.is.mpg.de/) scholar. I am co-supervised by [Paul Bürkner](https://paulbuerkner.com/) and [Manfred Claassen](https://claassenlab.github.io/). My educational background is in statistical theory and methods. 
 
 Capturing the uncertainty is a cornerstone of statistical inference. In my PhD, I tackle one of the directions of the overarching uncertainty quantification field through developing latent variable estimation methods using Gaussian processes (GPs) and Bayesian inference. Currently I am working on approximation methods for latent variable GPs for analysis of large sampled and high-dimensional RNA sequencing data in the field of single-cell biology. My research interests are largely in developing statistical methods and Bayesian inference. My current interests, among others, lie in latent temporal models and I have been looking for an opportunity to extending my methods into the spatial statistics domain. An interest that grew organically from my ongoing works are in prior specifications, which is one of the big areas of research in Bayesian inference. Quite recently I also got interested in Bayesian change-point point analysis using GPs. 
@@ -29,5 +37,6 @@ I usually enjoy working on topics that involve a mix of theory and methodology, 
 
 Feel free to [get in touch](mailto:sohammukherjee1998@gmail.com:) for potential collaboration and/or for more information about my ongoing works.
 
+:::
 
 

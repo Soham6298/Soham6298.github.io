@@ -25,9 +25,11 @@ website:
       - text: "CV"
         href: cv/index.qmd
         
-    page-footer:
-      left: "copyright: 2025, Soham Mukherjee"
-    open-graph: true
+  page-footer: 
+    left: ":copyright: 2025, Soham Mukherjee" 
+    #right: 
+    #  - text: Impressum
+    #    href: impressum/index.qmd
 format:
   html:
     theme: 

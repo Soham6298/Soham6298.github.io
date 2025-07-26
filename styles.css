@@ -1,8 +1,11 @@
 /* css styles */
 
-.centered {
-  margin-left: auto;
-  margin-right: auto;
-  text-align: center;
-  max-width: 60ch; /* Optional: controls line length for readability */
+p {
+  text-align: justify;
 }
+
+.btn.btn-sm, .btn-group-sm > .btn {
+    padding: 5px .4rem;
+    font-size: 14px;
+    border-radius: .2rem;
+  }
