@@ -1,6 +1,6 @@
 ---
 title: "Soham Mukherjee"
-subtitle: "Doctoral researcher in Statistics"
+subtitle: "Doctoral Researcher in Statistics"
 from: markdown+emoji
 about: 
   template: trestles
