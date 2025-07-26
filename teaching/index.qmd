@@ -1,8 +1,13 @@
 ---
-title: "Teaching"
-excerpt: "List of courses I have lectured"
+title: "Teaching and supervision"
+#excerpt: "List of courses I have lectured"
 page-layout: full
 ---
+## Supervision
+
+- Marcello Zago (M.Sc. thesis): *Derivative Gaussian processes for Single-Cell RNA sequencing data using combined covariance functions*.
+
+## Courses
 
 ### 2025
 

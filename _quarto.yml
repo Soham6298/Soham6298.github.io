@@ -33,6 +33,7 @@ format:
     theme: 
       light: flatly
       dark: darkly
+    #font-family: "Helvetica"
     toggle: true
     page-layout: full
     css: styles.css
