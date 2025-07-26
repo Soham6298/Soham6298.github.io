@@ -18,3 +18,7 @@ page-layout: full
 -   Seminar on Multilevel Models, Winter semester, TU Dortmund.
 
 -   Intensive course in statistics, Summer semester, TU Dortmund.
+
+### 2023
+
+- Student Seminar, MLSCB, Summer Semester, University of Tübingen.
