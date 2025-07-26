@@ -4,9 +4,9 @@ subtitle: "Doctoral Researcher in Statistics"
 from: markdown+emoji
 about: 
   template: trestles
-  image: graphics/MyImg.jpg
+  image: graphics/MyImg_org.jpg
   image-shape: round
-  image-width: 15em
+  image-width: 20em
   links:
     - text: Email
       icon: envelope-fill
