@@ -16,7 +16,7 @@ about:
       href: https://github.com/Soham6298
     - text: Google Scholar
       icon: mortarboard-fill
-      href: https://scholar.google.com/citations?hl=en
+      href: https://scholar.google.com/citations?hl=en&user=UG236mkAAAAJ
     - text: LinkedIn
       icon: linkedin
       href: https://www.linkedin.com/in/soham-mukherjee-33a397146/
