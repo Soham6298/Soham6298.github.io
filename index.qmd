@@ -35,7 +35,7 @@ Capturing the uncertainty is a cornerstone of statistical inference. In my PhD, 
 
 I usually enjoy working on topics that involve a mix of theory and methodology, however, being a shared PhD between a computational statistics lab and a ML in single-cell biology lab, I have also cultivated my skills and interest on the applied side of research. While the application of my works have been associated with statistical methods in biology, I am also interested in other areas like astro-statistics. I am currently on the lookout for postdoctoral opportunities that align with any of the above areas of research (both methods and applications). I would be happy to connect and discuss about potential positions and collaboration.
 
-Feel free to [get in touch](mailto:sohammukherjee1998@gmail.com:) for potential collaboration and/or for more information about my ongoing works.
+Feel free to [get in touch](mailto:sohammukherjee1998@gmail.com) for potential collaboration and/or for more information about my ongoing works.
 
 :::
 
