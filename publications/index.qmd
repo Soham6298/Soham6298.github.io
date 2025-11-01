@@ -14,8 +14,12 @@ page-layout: full
 
 ## In Review
 
-- *Mukherjee, S.*, Claassen, M., \& Bürkner, P. C. (2025) [Hilbert space methods for approximating multi-output latent variable Gaussian processes](https://arxiv.org/abs/2505.16919). arXiv preprint arXiv:2505.16919.
+- *Mukherjee S.*, Aguilar J. E., Zago M., Claassen M. \& Bürkner P. C. (2025). Latent variable estimation with composite Hilbert space Gaussian processes.(https://arxiv.org/abs/2510.25371).
+
+- Bischoff S., Poličar P.G., *Mukherjee S.*, Macke J.H., Claassen M., \& Schröder C. (2025) velotest: Statistical assessment of RNA velocity embeddings reveals quality differences for reliable trajectory visualizations.(https://doi.org/10.1101/2025.10.26.683064).
+
+- *Mukherjee, S.*, Claassen, M., \& Bürkner, P. C. (2025) [Hilbert space methods for approximating multi-output latent variable Gaussian processes](https://arxiv.org/abs/2505.16919).
 
 ## Preprint
 
-- Mukherjee S. (2021) [Bayesian Analysis of Stochastic Volatility Model using Finite Gaussian Mixtures with Unknown Number of Components](https://arxiv.org/abs/2110.12824). arXiv preprint arXiv:2110.12824.
+- Mukherjee S. (2021) [Bayesian Analysis of Stochastic Volatility Model using Finite Gaussian Mixtures with Unknown Number of Components](https://arxiv.org/abs/2110.12824).
