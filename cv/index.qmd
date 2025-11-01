@@ -2,7 +2,7 @@
 title: Curriculum vitae
 excerpt: My current CV
 published-title: CV last updated
-date: 2025-07-26
+date: 2025-11-01
 engine: knitr 
 cv:
   pdf: "SohamMukherjee_CV.pdf"
