@@ -7,10 +7,13 @@ page-layout: full
 
 ## Upcoming events
 
-- [StanCon 2026](https://www.stancon2026.org/), August, 2026, Uppsala, Sweden. Contributed talk: *Latent variable estimation with composite Hilbert space Gaussian processes*
-
+- [ASU seminar series at Indian Statistical Institute, Kolkata](https://www.isical.ac.in/~asu/index.html), December, 2026, Kolkata, India. Invited talk: *On latent variable estimation using derivative Gaussian processes*
 
 ## Past events
+
+- [AI Day 2026](https://fcai.fi/ai-day-2026), October, 2026, Espoo, Finland. Poster presentation: *Latent variable estimation with derivative Hilbert space Gaussian processes*
+
+- [StanCon 2026](https://www.stancon2026.org/), August, 2026, Uppsala, Sweden. Contributed talk: *Latent variable estimation with composite Hilbert space Gaussian processes*
 
 - [ISBA 2026 World Meeting](https://isba2026.github.io/), June, 2026, Nagoya, Japan. (Best poster prize, Junior researcher travel award) Poster presentation: *Latent variable estimation with composite Hilbert space Gaussian processes*
 

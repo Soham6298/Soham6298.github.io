@@ -6,22 +6,24 @@ toc-location: right
 page-layout: full
 ---
 
-## Accepted
-
-### 2026
-- *Mukherjee S.*, Claassen M., \& Bürkner P. C. (2026) [Hilbert space methods for approximating multi-output latent variable Gaussian processes](https://doi.org/10.1007/s11222-026-10869-x). Stat Comput 36, 110. [Preprint available for free](https://doi.org/10.48550/arXiv.2505.16919).
-
-### 2025
-
-- *Mukherjee S.*, Claassen M. \& Bürkner PC. (2025) [DGP-LVM: Derivative Gaussian process latent variable models](https://doi.org/10.1007/s11222-025-10644-4). Stat Comput 35, 120. [Preprint available for free](https://arxiv.org/abs/2404.04074).
-
 ## In Review
+
+- Aguilar J. E., *Mukherjee S.*, Kohns D. (2026) [R2-GP: Variance-Calibrated Priors for Additive Gaussian Processes](https://doi.org/10.48550/arXiv.2610.26437). arXiv preprint arXiv:2610.26437.
 
 - *Mukherjee S.*, Aguilar J. E., Zago M., Claassen M., \& Bürkner P. C. (2025) [Latent variable estimation with composite Hilbert space Gaussian processes](https://doi.org/10.48550/arXiv.2510.25371). arXiv preprint arXiv:2510.25371.
 
-- Bischoff S., Poličar P. G., *Mukherjee S.*, Macke J. H., Claassen M., \& Schröder C. (2025). [velotest: Statistical assessment of RNA velocity embeddings reveals quality differences for reliable trajectory visualizations](https://www.biorxiv.org/content/10.1101/2025.10.26.683064v1.abstract). bioRxiv, 2025-10.
-
 - Zago M., *Mukherjee S.*, Schleicher J. T., Bürkner P. C., Tabatabai G., Claassen M. (2026) [G-LATO: Inference of Spatial Latent Ordering via Deep Gaussian Processes](https://doi.org/10.64898/2026.06.23.734031). bioRxiv, 2026-06.
+
+## Accepted
+
+### 2026
+- *Mukherjee S.*, Claassen M., \& Bürkner P. C. (2026) [Hilbert space methods for approximating multi-output latent variable Gaussian processes](https://doi.org/10.1007/s11222-026-10869-x). Stat Comput 36, 110. [(Preprint here)](https://doi.org/10.48550/arXiv.2505.16919).
+
+- Bischoff S., Poličar P. G., *Mukherjee S.*, Macke J. H., Claassen M., \& Schröder C. (2026). [velotest: statistical assessment of RNA velocity embeddings reveals quality differences for reliable trajectory visualizations](https://doi.org/10.1038/s41467-026-78669-5).Nat Commun 17, 11876. [(Preprint here)](https://www.biorxiv.org/content/10.1101/2025.10.26.683064v1)
+
+### 2025
+
+- *Mukherjee S.*, Claassen M. \& Bürkner PC. (2025) [DGP-LVM: Derivative Gaussian process latent variable models](https://doi.org/10.1007/s11222-025-10644-4). Stat Comput 35, 120. [(Preprint here)](https://arxiv.org/abs/2404.04074).
 
 ## Preprint
 

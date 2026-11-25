@@ -9,6 +9,10 @@ page-layout: full
 
 ## Courses
 
+### 2026
+
+- Bayesian Data Analysis, Winter semester, Aalto University.
+
 ### 2025
 
 -   Seminar on Model Comparison, Summer semester, TU Dortmund.
